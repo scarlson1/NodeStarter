@@ -14,6 +14,4 @@ The most significant changes from the original template are on the React side (c
 
 For the most part, I left the original code from Stephen's course commented out in the file, in case anyone wants to compare the original / debug my code.
 
-I'm not a great programmer. No school or work experience; just do it for fun. I made the minimal about of changes to get the repo functional enough to continue the course. I'm sure there are bugs and plenty of areas for improvement.
-
 There a file called dev.temp.js in the config folder that lists the environment varibles that will need to be added.
